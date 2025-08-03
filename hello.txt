@@ -1,1 +1,2 @@
 Hello, GitHub! This is Sindhu.
+I'm learning Git and GitHub step by step!
